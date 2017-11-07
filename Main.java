@@ -31,8 +31,6 @@ public class Produce {
 		 }
 		 
 		 producer.close();
-		
-		
+			
 	}
-
 }
